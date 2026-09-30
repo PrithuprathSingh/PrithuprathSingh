@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Prithuprath Singh 👋
 
-<!--
-**PrithuprathSingh/PrithuprathSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Engineer specializing in ELT/ETL pipelines, large-scale data migration, and medallion architecture. I build reliable data platforms that transform complex, high-volume datasets into trusted assets for analytics and machine learning.
 
-Here are some ideas to get you started:
+### 🛠️ Core Stack
+*   **Data Engineering:** Databricks, Lakehouse Architecture
+*   **Languages:** Python, SQL
+*   **Tools & Infrastructure:** Git, Linux, CI/CD, REST APIs
+*   **Analytics, ML & Visualization:** Machine Learning Algorithms, Predictive Modeling, Time Series Forecasting, Scikit-learn, TensorFlow, Data Visualization, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Work
+*   **ETL Migration & Optimization:** Architected phased migrations of legacy data systems using Python and expert SQL, reducing extraction latency by 40% and automating metadata management.
+*   **Automated Data Validation:** Built memory-efficient data validation and lineage tracking workflows using modern AI tooling and Databricks.
+
+📫 **Let's connect:** www.linkedin.com/in/prithuprath-singh-a10ba2278 | ✉️ prithuprath04@gmail.com
