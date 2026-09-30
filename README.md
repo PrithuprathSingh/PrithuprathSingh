@@ -1,6 +1,6 @@
 # Hi, I'm Prithuprath Singh 👋
 
-I am a Data Engineer specializing in ELT/ETL pipelines, large-scale data migration, and medallion architecture. I build reliable data platforms that transform complex, high-volume datasets into trusted assets for analytics and machine learning.
+I am a Machine Learning & Data Engineer bridging the gap between scalable infrastructure and intelligent algorithms. I specialize in large-scale data migration, ELT workflows, and training predictive ML models to turn raw data into actionable, automated insights.
 
 ### 🛠️ Core Stack
 *   **Data Engineering:** Databricks, Lakehouse Architecture
